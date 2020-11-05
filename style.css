@@ -1,0 +1,77 @@
+
+
+h1 {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {
+    background-color: hsl(200, 15%, 85%);
+    font-family: sans-serif;
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px
+}
+
+h2 {
+    background-color: hsl(200, 15%, 55%);
+    color: hsl(200, 15%, 30%);
+    font-size: 200%;
+    text-decoration: underline;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    display: block;
+    font-style: italic;
+}
